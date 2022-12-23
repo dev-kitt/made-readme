@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Kitt and this is @standard-made
 - 👀 I’m interested in Automation + Web3 + MadeByGoogle
-- 🌱 I’m currently learning `Flutter` | `Dart` | `QuantumAI` | `Cirq`
+- 🌱 I’m currently learning `Flutter` | `Dart` | `Kubernetes` | `Angular`
 - 💞️ I’m looking to collaborate on ... :taco::taco:
 - 📫 How to reach me ... don't
 
