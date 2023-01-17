@@ -1,15 +1,15 @@
 **<h1>STANDARDmade by Kitt</h1>**
 
 - 👋 Hi, I’m Kitt and this is @standard-made
-- 👀 I’m interested in Automation + Web3 + MadeByGoogle
-- 🌱 I’m currently learning `Flutter` | `Dart` | `Kubernetes` | `Angular`
+- 👀 I’m interested in Automation + WebDev + MadeByGoogle
+- 🌱 I’m currently learning `Computer Vision` | `Flutter` | `Kubernetes` | `Angular` | `ARCore`
 - 💞️ I’m looking to collaborate on ... :taco::taco:
 - 📫 How to reach me ... don't
 
 ## <span style="color:#555555"><u> **OVERVIEW** </u></span>
 [kITt:](https://made.llc) `keep IT testing`
 - Portfolio & Playground
-  - AI Stuff
+  - Tech Stuff
   - Automation Stuff
   - Web3 Stuff
   - DevOps Stuff
@@ -18,36 +18,24 @@
 
 ## <span style="color:#555555"><u> **CORE DEVELPOMENT** </u></span>
 
-**myTOOLS:** `TestComplete` | `ReadyAPI+Postman` | `Selenium+WebDriver` | `Cypress` | `Azure DevOps` | `Firebase` | `SSMS` | `GitHub` |  `VSCode`
+:taco: **SCRIPTING:** 
 
-**myCODE:** `JavaScript` | `Bash/Shell` | `Git` | `Gherkin` | `JSON` | `SQL` | `YAML` |  `Python` | `Solidity` |
+`🦏 JavaScript` | `☕ Java` | `🐍 Python3` | `💲Bash` | `🐚 Shell` | `🐘 SQL` | `🌈 HTML/CSS` | `🥒 Gherkin` | `🪒 C#` | `🐧 VBScript`
+
+:taco: **TECH & TOOLS:** 
+
+`🐻 SmartBear*` | `😺 GitHub` | `🦥 AzureDevOps` | `🧑‍🚀 Postman` | `🖲️ WebdriverIO` | `👾 Jira` | `🤖 Cypress` | `🐋 AKS/Docker` | `⚛️ React/Node` | `📎 Microsoft` | `🦍 MongoDB` | `🦖 GoogleDevOps` | `🔥 Firebase` | `☁️ Azure` | `📱 Android` | `🌐 Web2` | `🪙 Web3` | `🔐 Database` | `📐 Architecture` | `🚀 CI/CD` | `🛏️ Embedded` | `📊 Analytics` | `📈 Performance` | `🖥️ UI/UX` | `🔚 API`
+
+_* TestComplete, SoapUI/ReadyAPI, Cucumber, Swagger, LoadNinja, TestEngine, TestExecute, Zephyr_
 
 --------------------
-:taco: **SCRIPTING (8+ yrs):** 
+**EXPOSURE:** 
 
-- JS, HTML, CSS, dotNET (ASP/VB), C#, T-SQL (SSMS), NoSQL (MongoDB), Bash/Shell (CLI), JSON, XML, YAML
-
-:taco: **METHADOLOGIES/MODELS (8+ yrs):** 
-
-- ISTQB/QA, Test Planning and Strategy, Project Management, CI/CD, TDD/BDD, DDT, OSI, TCP/IP, Saas, IaaS, IoT, HA/DR, Unified Architecture, Wireframing, Product Design
-
-:taco: **APPS/TOOLS (5+ yrs):** 
-
-- <span style="color:#F4AFDA"><u>Google:</u></span> Chrome DevTools, Cloud, Android, Analytics, Ads 
-- <span style="color:#F4AFDA"><u>Microsoft:</u></span> DevOps, GitHub, VS, SSMS, 365, Teams 
-- <span style="color:#F4AFDA"><u>SmartBear:</u></span> TestComplete (Desktop/Mobile/Web), SoapUI, Swagger, Cucumber, LoadNinja, TestExecute, TestEngine, CrossBroswerTesting 
-- <span style="color:#F4AFDA"><u>Automation:</u></span> Selenium, WebDriverIO, Postman, Powershell, ServiceNow, MongoDB, Robo3T, Fiddler, OctoPerf
-
-:taco: **EXPOSURE (< 3 yrs):** 
-
-- <span style="color:#F4AFDA"><u>Google:</u></span> Firebase, Flutter/Dart 
-- <span style="color:#F4AFDA"><u>Microsoft:</u></span> Visio, PowerBI, AKS 
-- <span style="color:#F4AFDA"><u>Automation:</u></span> ReadyAPI, JMeter, LoadRunner, BrowserStack, Appium, Cypress, SauceLabs 
-- <span style="color:#F4AFDA"><u>Other:</u></span> Docker, Terraform, React.js, Kentico, Figma, Zepplin, Jira
+**Google:** Firebase, Flutter/Dart, Chrome DevTools, Google Cloud Platform, K8s, Angular, Android, Analytics, Ads **Microsoft:** Azure, DevOps, GitHub, VS, SSMS, 365, Teams, Visio, PowerBI, AKS **Automation:** ReadyAPI, JMeter, LoadRunner, BrowserStack, Appium, Cypress, SauceLabs, Selenium, WebDriverIO, Postman, Powershell, ServiceNow, MongoDB, Robo3T, Fiddler, OctoPerf **Other:** Docker, Terraform, Web3, Node/React.js, Kentico, Figma, Zepplin, ARCore, ComputerVision, OpenAI/ChatGPT 
 
 <span style="color:#A6A6A6"> **EXAMPLES:** </span>
 
-<span style="color:#B387FD"><u>**STANDARD: DevOps**</u></span> fully supports the consumption of tacos. Use the examples below to help make all of your wildest taco dreams come true. NOTE: we assume no liable after tacos are consumed. Please use at your own discretion - and listen to your tum tum.
+<span style="color:#B387FD"><u>**STANDARDmade**</u></span> fully supports the consumption of tacos. Use the examples below to help make all of your wildest taco dreams come true. NOTE: we assume no liable after tacos are consumed. Please use at your own discretion - and listen to your tum tum.
 
 
 ``` js
